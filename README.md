@@ -107,5 +107,3 @@ GPAweb/
 - 🌟 Use **React Three Fiber** for a 3D, immersive user interface (really in the future).
 
 ---
-
-Feel free to adjust this README as your project evolves! Let me know if you need help setting up your Git repository or refining this further. 😊
