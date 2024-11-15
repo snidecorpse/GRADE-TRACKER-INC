@@ -21,7 +21,7 @@ GPAweb is a modern, responsive web application using react and vite (with tailwi
 - 📈 **Data Visualization**: View GPA trends (coming soon).
 - 🌐 **Responsive Design**: Fully optimized for mobile and desktop. (future feature).
 - 🛠 **Offline Support**: Save data locally and sync later (future feature).
-- 🔐 **Account management**: Save data online and sync for access on any device (future device).
+- 🔐 **Account management**: Save data online and sync for access on any device (future feature).
 - 🚀 **Modern UI**: Clean, intuitive interface powered by Tailwind CSS.
 
 ---
