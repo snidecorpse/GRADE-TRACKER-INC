@@ -13,8 +13,6 @@ GPAweb is a modern, responsive web application using react and vite (with tailwi
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Future Plans](#future-plans)
-- [Contributing](#contributing)
-- [License](#license)
 ---
 
 ## **Features**
